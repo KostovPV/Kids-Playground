@@ -305,10 +305,12 @@ h1, h2, h3, h4, h5,
 
 .site-footer {
   padding: 4em 0;
+  line-height: 1.2;
   background: #343a40; }
+
   @media (min-width: 768px) {
     .site-footer {
-      padding: 8em 0; } }
+      padding: 1em 0; } }
   .site-footer .border-top {
     border-top: 1px solid rgba(255, 255, 255, 0.1) !important; }
   .site-footer p {
@@ -322,9 +324,29 @@ h1, h2, h3, h4, h5,
   .site-footer ul li {
     margin-bottom: 10px; }
   .site-footer .footer-heading {
-    font-size: 18px;
+    font-size: 16px;
     color: #fd4d40; }
+ .pt-5 {
+      padding-top: 1rem!important;
+  }
 
+  .mt-5, .my-5 {
+    margin-top: -1rem!important;
+}
+.mb-4, .my-4 {
+  margin-bottom: 0.5rem!important;
+}
+  
+
+.site-footer p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+  /* .list-unstyled{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  } */
 .bg-text-line {
   display: inline;
   background: #000;

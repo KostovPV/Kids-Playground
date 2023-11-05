@@ -5,12 +5,12 @@ export default function Header(){
           <div className="container mb-3">
             <div className="d-flex align-items-center">
               <div className="site-logo mr-auto">
-                <a href="index.html">Kiddy<span className="text-primary">.</span></a>
+                <a href="index.html">Party center <span className="text-primary">.</span></a>
               </div>
               <div className="site-quick-contact d-none d-lg-flex ml-auto ">
                 <div className="d-flex site-info align-items-center mr-5">
                   <span className="block-icon mr-3"><span className="icon-map-marker text-yellow"></span></span>
-                  <span>34 Street Name, City Name Here, <br/> United States</span>
+                  <span>34 Lazur, Burgas, <br/> Bulgaria</span>
                 </div>
                 <div className="d-flex site-info align-items-center">
                   <span className="block-icon mr-3"><span className="icon-clock-o"></span></span>
