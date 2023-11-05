@@ -27,17 +27,7 @@ export default function Footer(){
                       <li><a href="#">Contact Us</a></li>
                     </ul>
                   </div>
-                  <div className="col-lg-4">
-                    <h2 className="footer-heading mb-4">Navigation</h2>
-                    <ul className="list-unstyled">
-                      <li><a href="#">About Us</a></li>
-                      <li><a href="#">Testimonials</a></li>
-                      <li><a href="#">Terms of Service</a></li>
-                      <li><a href="#">Privacy</a></li>
-                      <li><a href="#">Contact Us</a></li>
-                    </ul>
-
-                  </div>
+                  
 
 
 
